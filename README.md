@@ -1,0 +1,2 @@
+# product_review_system_using_sentimental_analysis
+this project is meant to change the course of product review system which is based on taking reviews from users then and there in their app while we can collect review of a product form many sources like twitter , facebook and other social medias where people put posts with #tags of product with great elaborations and we can run sentimental analysis on those tweets as called in the literature of twitter or posts and find the degree of acceptance or rejection of the product.
